@@ -1,4 +1,4 @@
-import EmojiRow from "../emojiRox/EmojiRow";
+import EmojiRow from "../emojiRow/EmojiRow";
 
 const EmojiResults = () => {
 
